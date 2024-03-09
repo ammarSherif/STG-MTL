@@ -1,0 +1,3 @@
+[submodule "fuzzy_kmeans"]
+	path = fuzzy_kmeans
+	url = https://github.com/ammarSherif/Fuzzy-K-Means.git
